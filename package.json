@@ -1,0 +1,15 @@
+{
+  "name": "form-cdn",
+  "version": "1.0.0",
+  "description": "CDN to integrate the form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "form-cdn"
+  },
+  "author": "",
+  "license": "ISC"
+}
